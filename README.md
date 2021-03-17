@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @caams
+- 👀 I’m interested in data science, machine-learning, videogames and AI!
+- 🌱 I’m currently learning computer science at university
+- 💞️ I’m looking to collaborate on new projects related to my interests mayble as a scholar or an intership too!
+- 📫 How to reach me via telegram, user: @duckoffthx
