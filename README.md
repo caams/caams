@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caams
-- 👀 I’m interested in data science, machine-learning, videogames and AI!
-- 🌱 I’m currently learning computer science at university
-- 💞️ I’m looking to collaborate on new projects related to my interests mayble as a scholar or an intership too!
-- 📫 How to reach me via telegram, user: @duckoffthx
+- 👀 I’m interested in cloud technologies, data science, machine-learning, videogames and AI!
+- 🌱 I’m currently a Computer Science student in UNAM, Mexico City.
+- 💞️ I’m looking to collaborate on new projects related to my interests maybe as a scholar or an intern.
+- 📫 How to reach me via telegram, user: @CodingBlackDuck
